@@ -1,5 +1,5 @@
 body {
-    background-color: #226db3ee;
+    background-color: #83457dee;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -24,7 +24,7 @@ a {
 .top-nav li {
     display: inline;
     padding: .1rem .5rem;
-    border-right: 1px solid #ffffff;
+    border-right: 1px solid #020b21;
 }
 
 .top-nav li:last-of-type {
@@ -51,7 +51,7 @@ a {
 }
 
 .site-logo a {
-    color: #0a4a92;
+    color: #5a00e2;
     text-decoration: none;
 }
 
@@ -275,7 +275,7 @@ a.product-name:hover, a.product-name:focus {
 }
 
 .sidebar {
-    border-left: 1px solid #004d9b;
+    border-left: 1px solid #760d8b;
     border-top: 0 solid #c7c8c9;
 }
 

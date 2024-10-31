@@ -12,10 +12,10 @@ app.get('/api/products', (req, res) => {
   const products = [
     { 
       id: 1, 
-      name: 'Cámara web HD 1080P', 
+      name: 'Paquetes Jira', 
       oldPrice: 37500, 
       price: 35000, 
-      urlImg: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmYckEMeFKNyPfp2TJu1Fup4HIBjibtiCqO3I6nbhWev7LIyxevl52_-aZwkaoJmuOVxzl0GTcx9nqq5G4T3ArSy99H_T5&usqp=CAE'
+      urlImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.openproject.org%2Fes%2Fblog%2Falternativa-open-source-a-jira%2F&psig=AOvVaw0fny7wSET-CMJsb-HuWxXk&ust=1730484613843000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiX24OcuYkDFQAAAAAdAAAAABAE'
     },
     {
       id: 2, 
